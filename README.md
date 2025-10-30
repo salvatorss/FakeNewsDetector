@@ -1,7 +1,5 @@
 # 📰 Fake News Detector
 
-![App Screenshot](./5b58baae-90fe-41ac-9f24-4a7f168194a7.png)
-
 ## 📖 Project Overview
 
 **Fake News Detector** is a web application built to classify news articles or headlines as **Real** or **Fake** using **Machine Learning**.  
