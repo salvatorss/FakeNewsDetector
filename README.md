@@ -45,10 +45,16 @@ The goal of this project is to combat misinformation by providing a simple and i
 
 <img width="1920" height="918" alt="Screenshot 2025-10-30 222211" src="https://github.com/user-attachments/assets/1cc1c4cc-e3cf-42e7-9920-3f85fd568e17" />
 
+
+# Drive link :  https://drive.google.com/drive/folders/1HIv-Dz9nwf7EENOlhXMytjNSzS9MOZNb?usp=sharing
+
 ## 👨‍💻 Author
 
 Shikhar Mishra
 📍 Delhi, India
 📧 shikharmishrakiet@gmail.com
 🔗 LinkedIn
+
+
+
 
